@@ -1,4 +1,3 @@
-Sure, I can help you with that. Here is a `README.md` file for your project:
 
 # Burp Suite Report Parser (BSparser)
 
